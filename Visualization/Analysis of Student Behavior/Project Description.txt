@@ -1,0 +1,3 @@
+For the purpose of this project, the data cleaning has been performed using Python and the modeling and visualization portion of the project has been handled by R.
+
+Through the research conducted in this project, I wished to explore the impact that various factors had on determining the performance of students at a college. Through this project, I wanted to  answer if the marks and expected salaries of students could be estimated based on the predictor variables (such as the daily study time of the student, certifications that the student has completed).
