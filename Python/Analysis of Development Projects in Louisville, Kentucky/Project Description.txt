@@ -1,0 +1,2 @@
+The dataset that I have selected for the purpose of this project is about the applications for development projects submitted to Planning and Design Services in the city of Louisville, Kentucky between January 2010 and June 2018.
+I have used the tools R, Python and SQL to analyze and provide inferences and draw conclusions from the dataset.
