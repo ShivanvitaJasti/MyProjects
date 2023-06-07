@@ -1,0 +1,5 @@
+This project focuses on a dataset that describes the details about over 1000 users of a U.S telecommunications company.
+The goal of this project and research is to conduct an exploratory data analysis on the telecom dataset and then prepare a summary about the factors that are likely to cause customers to cancel their mobile and internet service. This project also includes the development of machine learning algorithms in order to predict the likelihood of a customer cancelling their service in the future.
+This project used R language and RStudio to analyze and perform exploratory data analysis and machine learning on the dataset and draw meaningful inferences from the dataset.
+
+Trends and patterns within the data have been identified using Exploratory Data Analysis and Modeling and business recommendations have been provided to the insurance firm to improve overall efficiency.
